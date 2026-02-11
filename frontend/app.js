@@ -85,18 +85,14 @@ async function loadLanguages() {
             .map(lang => `<option value="${lang.code}">${lang.name}</option>`)
             .join('');
         
-        // Default: English -> Spanish
-        sourceLangSelect.value = 'en';
-        targetLangSelect.value = 'es';
+        // Default: Hungarian -> English
+        sourceLangSelect.value = 'hu';
+        targetLangSelect.value = 'en';
     } catch (error) {
         console.error('Failed to load languages:', error);
         // Fallback options
-        sourceLangSelect.innerHTML = '<option value="en">English</option>';
-        targetLangSelect.innerHTML = `
-            <option value="es">Spanish</option>
-            <option value="fr">French</option>
-            <option value="de">German</option>
-        `;
+        sourceLangSelect.innerHTML = '<option value="hu">Hungarian</option>';
+        targetLangSelect.innerHTML = '<option value="en">English</option>';
     }
 }
 
