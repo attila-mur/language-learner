@@ -2,301 +2,1011 @@
   {
     "id": "1",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "food",
-    "sourceText": "apple",
-    "targetText": "manzana",
-    "pronunciation": "mahn-SAH-nah",
-    "example": "I eat an apple every day."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "hello",
+    "targetText": "szia",
+    "pronunciation": "SEE-ah",
+    "example": "Szia, hogy vagy?"
   },
   {
     "id": "2",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "food",
-    "sourceText": "bread",
-    "targetText": "pan",
-    "pronunciation": "pahn",
-    "example": "I need to buy bread."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "goodbye",
+    "targetText": "viszlát",
+    "pronunciation": "VEES-laht",
+    "example": "Viszlát, holnap találkozunk!"
   },
   {
     "id": "3",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "food",
-    "sourceText": "water",
-    "targetText": "agua",
-    "pronunciation": "AH-gwah",
-    "example": "Water is essential for life."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "thank you",
+    "targetText": "köszönöm",
+    "pronunciation": "KÖ-sö-nöm",
+    "example": "Köszönöm a segítséget."
   },
   {
     "id": "4",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "food",
-    "sourceText": "coffee",
-    "targetText": "café",
-    "pronunciation": "kah-FEH",
-    "example": "I drink coffee in the morning."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "please",
+    "targetText": "kérem",
+    "pronunciation": "KAY-rem",
+    "example": "Kérem, üljön le."
   },
   {
     "id": "5",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "food",
-    "sourceText": "milk",
-    "targetText": "leche",
-    "pronunciation": "LEH-cheh",
-    "example": "The milk is cold."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "yes",
+    "targetText": "igen",
+    "pronunciation": "EE-gen",
+    "example": "Igen, értem."
   },
   {
     "id": "6",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "animals",
-    "sourceText": "dog",
-    "targetText": "perro",
-    "pronunciation": "PEH-rroh",
-    "example": "My dog is very friendly."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "no",
+    "targetText": "nem",
+    "pronunciation": "nem",
+    "example": "Nem, köszönöm."
   },
   {
     "id": "7",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "animals",
-    "sourceText": "cat",
-    "targetText": "gato",
-    "pronunciation": "GAH-toh",
-    "example": "The cat sleeps all day."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "good morning",
+    "targetText": "jó reggelt",
+    "pronunciation": "yoh REG-gelt",
+    "example": "Jó reggelt kívánok!"
   },
   {
     "id": "8",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "animals",
-    "sourceText": "bird",
-    "targetText": "pájaro",
-    "pronunciation": "PAH-hah-roh",
-    "example": "The bird sings beautifully."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "good night",
+    "targetText": "jó éjszakát",
+    "pronunciation": "yoh EY-sah-kaht",
+    "example": "Jó éjszakát, aludj jól."
   },
   {
     "id": "9",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "animals",
-    "sourceText": "fish",
-    "targetText": "pez",
-    "pronunciation": "pehs",
-    "example": "The fish swims in the water."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "excuse me",
+    "targetText": "elnézést",
+    "pronunciation": "EL-nay-zaysht",
+    "example": "Elnézést, hol a pályaudvar?"
   },
   {
     "id": "10",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "animals",
-    "sourceText": "horse",
-    "targetText": "caballo",
-    "pronunciation": "kah-BAH-yoh",
-    "example": "The horse runs fast."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "sorry",
+    "targetText": "sajnálom",
+    "pronunciation": "SHOY-nah-lom",
+    "example": "Sajnálom, hogy késtem."
   },
   {
     "id": "11",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "colors",
-    "sourceText": "red",
-    "targetText": "rojo",
-    "pronunciation": "ROH-hoh",
-    "example": "The apple is red."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "how are you",
+    "targetText": "hogy vagy",
+    "pronunciation": "hodj vodj",
+    "example": "Szia, hogy vagy?"
   },
   {
     "id": "12",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "colors",
-    "sourceText": "blue",
-    "targetText": "azul",
-    "pronunciation": "ah-SOOL",
-    "example": "The sky is blue."
+    "targetLanguage": "hu",
+    "topic": "greetings",
+    "sourceText": "good afternoon",
+    "targetText": "jó napot",
+    "pronunciation": "yoh NAH-pot",
+    "example": "Jó napot kívánok!"
   },
+
   {
     "id": "13",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "colors",
-    "sourceText": "green",
-    "targetText": "verde",
-    "pronunciation": "BEHR-deh",
-    "example": "The grass is green."
+    "targetLanguage": "hu",
+    "topic": "numbers",
+    "sourceText": "one",
+    "targetText": "egy",
+    "pronunciation": "edj",
+    "example": "Van egy testvérem."
   },
   {
     "id": "14",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "colors",
-    "sourceText": "yellow",
-    "targetText": "amarillo",
-    "pronunciation": "ah-mah-REE-yoh",
-    "example": "The banana is yellow."
+    "targetLanguage": "hu",
+    "topic": "numbers",
+    "sourceText": "two",
+    "targetText": "kettő",
+    "pronunciation": "KET-tő",
+    "example": "Két macskám van."
   },
   {
     "id": "15",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "colors",
-    "sourceText": "black",
-    "targetText": "negro",
-    "pronunciation": "NEH-groh",
-    "example": "My car is black."
+    "targetLanguage": "hu",
+    "topic": "numbers",
+    "sourceText": "three",
+    "targetText": "három",
+    "pronunciation": "HAH-rom",
+    "example": "Három alma a héten."
   },
   {
     "id": "16",
     "sourceLanguage": "en",
-    "targetLanguage": "fr",
-    "topic": "food",
-    "sourceText": "apple",
-    "targetText": "pomme",
-    "pronunciation": "pom",
-    "example": "I eat an apple."
+    "targetLanguage": "hu",
+    "topic": "numbers",
+    "sourceText": "four",
+    "targetText": "négy",
+    "pronunciation": "naydj",
+    "example": "Négy évszak van."
   },
   {
     "id": "17",
     "sourceLanguage": "en",
-    "targetLanguage": "fr",
-    "topic": "food",
-    "sourceText": "bread",
-    "targetText": "pain",
-    "pronunciation": "pahn",
-    "example": "Fresh bread is delicious."
+    "targetLanguage": "hu",
+    "topic": "numbers",
+    "sourceText": "five",
+    "targetText": "öt",
+    "pronunciation": "öt",
+    "example": "Öt ujj egy kézen."
   },
   {
     "id": "18",
     "sourceLanguage": "en",
-    "targetLanguage": "fr",
-    "topic": "food",
-    "sourceText": "water",
-    "targetText": "eau",
-    "pronunciation": "oh",
-    "example": "I drink water."
+    "targetLanguage": "hu",
+    "topic": "numbers",
+    "sourceText": "six",
+    "targetText": "hat",
+    "pronunciation": "hot",
+    "example": "Hat hónap telt el."
   },
   {
     "id": "19",
     "sourceLanguage": "en",
-    "targetLanguage": "fr",
-    "topic": "animals",
-    "sourceText": "dog",
-    "targetText": "chien",
-    "pronunciation": "shee-ahn",
-    "example": "The dog is barking."
+    "targetLanguage": "hu",
+    "topic": "numbers",
+    "sourceText": "seven",
+    "targetText": "hét",
+    "pronunciation": "hayt",
+    "example": "Hét nap egy hét."
   },
   {
     "id": "20",
     "sourceLanguage": "en",
-    "targetLanguage": "fr",
-    "topic": "animals",
-    "sourceText": "cat",
-    "targetText": "chat",
-    "pronunciation": "shah",
-    "example": "The cat is sleeping."
+    "targetLanguage": "hu",
+    "topic": "numbers",
+    "sourceText": "eight",
+    "targetText": "nyolc",
+    "pronunciation": "nyolts",
+    "example": "Nyolc óra van."
   },
   {
     "id": "21",
     "sourceLanguage": "en",
-    "targetLanguage": "de",
-    "topic": "food",
-    "sourceText": "apple",
-    "targetText": "apfel",
-    "pronunciation": "AHP-fel",
-    "example": "The apple is tasty."
+    "targetLanguage": "hu",
+    "topic": "numbers",
+    "sourceText": "nine",
+    "targetText": "kilenc",
+    "pronunciation": "KEE-lents",
+    "example": "Kilenc évvel idősebb."
   },
   {
     "id": "22",
     "sourceLanguage": "en",
-    "targetLanguage": "de",
-    "topic": "food",
-    "sourceText": "bread",
-    "targetText": "brot",
-    "pronunciation": "broht",
-    "example": "German bread is famous."
+    "targetLanguage": "hu",
+    "topic": "numbers",
+    "sourceText": "ten",
+    "targetText": "tíz",
+    "pronunciation": "teez",
+    "example": "Tíz ember jött el."
   },
+
   {
     "id": "23",
     "sourceLanguage": "en",
-    "targetLanguage": "de",
-    "topic": "animals",
-    "sourceText": "dog",
-    "targetText": "hund",
-    "pronunciation": "hoont",
-    "example": "The dog is loyal."
+    "targetLanguage": "hu",
+    "topic": "colors",
+    "sourceText": "red",
+    "targetText": "piros",
+    "pronunciation": "PEE-rosh",
+    "example": "Az alma piros."
   },
   {
     "id": "24",
     "sourceLanguage": "en",
-    "targetLanguage": "de",
-    "topic": "animals",
-    "sourceText": "cat",
-    "targetText": "katze",
-    "pronunciation": "KAHT-seh",
-    "example": "The cat is independent."
+    "targetLanguage": "hu",
+    "topic": "colors",
+    "sourceText": "blue",
+    "targetText": "kék",
+    "pronunciation": "kayk",
+    "example": "Az ég kék."
   },
   {
     "id": "25",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "greetings",
-    "sourceText": "hello",
-    "targetText": "hola",
-    "pronunciation": "OH-lah",
-    "example": "Hello, how are you?"
+    "targetLanguage": "hu",
+    "topic": "colors",
+    "sourceText": "green",
+    "targetText": "zöld",
+    "pronunciation": "zöld",
+    "example": "A fű zöld."
   },
   {
     "id": "26",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "greetings",
-    "sourceText": "goodbye",
-    "targetText": "adiós",
-    "pronunciation": "ah-dee-OHS",
-    "example": "Goodbye, see you later."
+    "targetLanguage": "hu",
+    "topic": "colors",
+    "sourceText": "yellow",
+    "targetText": "sárga",
+    "pronunciation": "SHAR-gah",
+    "example": "A nap sárga."
   },
   {
     "id": "27",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "greetings",
-    "sourceText": "thank you",
-    "targetText": "gracias",
-    "pronunciation": "GRAH-see-ahs",
-    "example": "Thank you for your help."
+    "targetLanguage": "hu",
+    "topic": "colors",
+    "sourceText": "black",
+    "targetText": "fekete",
+    "pronunciation": "FEH-keh-teh",
+    "example": "A macska fekete."
   },
   {
     "id": "28",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "greetings",
-    "sourceText": "please",
-    "targetText": "por favor",
-    "pronunciation": "pohr fah-VOHR",
-    "example": "Please pass the salt."
+    "targetLanguage": "hu",
+    "topic": "colors",
+    "sourceText": "white",
+    "targetText": "fehér",
+    "pronunciation": "FEH-hayr",
+    "example": "A hó fehér."
   },
   {
     "id": "29",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "numbers",
-    "sourceText": "one",
-    "targetText": "uno",
-    "pronunciation": "OO-noh",
-    "example": "I have one book."
+    "targetLanguage": "hu",
+    "topic": "colors",
+    "sourceText": "orange",
+    "targetText": "narancs",
+    "pronunciation": "NAH-rants",
+    "example": "A narancs narancssárga."
   },
   {
     "id": "30",
     "sourceLanguage": "en",
-    "targetLanguage": "es",
-    "topic": "numbers",
-    "sourceText": "two",
-    "targetText": "dos",
-    "pronunciation": "dohs",
-    "example": "I have two cats."
+    "targetLanguage": "hu",
+    "topic": "colors",
+    "sourceText": "purple",
+    "targetText": "lila",
+    "pronunciation": "LEE-lah",
+    "example": "A lila virág szép."
+  },
+  {
+    "id": "31",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "colors",
+    "sourceText": "brown",
+    "targetText": "barna",
+    "pronunciation": "BAHR-nah",
+    "example": "A medve barna."
+  },
+  {
+    "id": "32",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "colors",
+    "sourceText": "pink",
+    "targetText": "rózsaszín",
+    "pronunciation": "ROH-zah-seen",
+    "example": "A rózsaszín ruha szép."
+  },
+
+  {
+    "id": "33",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "bread",
+    "targetText": "kenyér",
+    "pronunciation": "KEN-yayr",
+    "example": "Veszek kenyeret."
+  },
+  {
+    "id": "34",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "water",
+    "targetText": "víz",
+    "pronunciation": "veez",
+    "example": "Iszom egy vizet."
+  },
+  {
+    "id": "35",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "apple",
+    "targetText": "alma",
+    "pronunciation": "AHL-mah",
+    "example": "Eszem egy almát."
+  },
+  {
+    "id": "36",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "coffee",
+    "targetText": "kávé",
+    "pronunciation": "KAA-vay",
+    "example": "Reggel iszom egy kávét."
+  },
+  {
+    "id": "37",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "milk",
+    "targetText": "tej",
+    "pronunciation": "tay",
+    "example": "A tej hideg."
+  },
+  {
+    "id": "38",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "cheese",
+    "targetText": "sajt",
+    "pronunciation": "shoyt",
+    "example": "A sajt finom."
+  },
+  {
+    "id": "39",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "egg",
+    "targetText": "tojás",
+    "pronunciation": "TOH-yahsh",
+    "example": "Reggel tojást eszem."
+  },
+  {
+    "id": "40",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "soup",
+    "targetText": "leves",
+    "pronunciation": "LEH-vesh",
+    "example": "A gulyásleves híres."
+  },
+  {
+    "id": "41",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "meat",
+    "targetText": "hús",
+    "pronunciation": "hoosh",
+    "example": "Szeretem a húst."
+  },
+  {
+    "id": "42",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "fish",
+    "targetText": "hal",
+    "pronunciation": "hahl",
+    "example": "A hal friss."
+  },
+  {
+    "id": "43",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "chicken",
+    "targetText": "csirke",
+    "pronunciation": "CHEER-keh",
+    "example": "A csirkepaprikás finom."
+  },
+  {
+    "id": "44",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "wine",
+    "targetText": "bor",
+    "pronunciation": "bor",
+    "example": "A magyar bor híres."
+  },
+  {
+    "id": "45",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "food",
+    "sourceText": "beer",
+    "targetText": "sör",
+    "pronunciation": "shör",
+    "example": "Egy sört kérek."
+  },
+
+  {
+    "id": "46",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "animals",
+    "sourceText": "dog",
+    "targetText": "kutya",
+    "pronunciation": "KOO-tyah",
+    "example": "A kutyám barátságos."
+  },
+  {
+    "id": "47",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "animals",
+    "sourceText": "cat",
+    "targetText": "macska",
+    "pronunciation": "MAHTCH-kah",
+    "example": "A macska az ágyon alszik."
+  },
+  {
+    "id": "48",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "animals",
+    "sourceText": "bird",
+    "targetText": "madár",
+    "pronunciation": "MAH-dar",
+    "example": "A madár énekel."
+  },
+  {
+    "id": "49",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "animals",
+    "sourceText": "horse",
+    "targetText": "ló",
+    "pronunciation": "loh",
+    "example": "A ló gyorsan fut."
+  },
+  {
+    "id": "50",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "animals",
+    "sourceText": "cow",
+    "targetText": "tehén",
+    "pronunciation": "TEH-hayn",
+    "example": "A tehén tejet ad."
+  },
+  {
+    "id": "51",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "animals",
+    "sourceText": "pig",
+    "targetText": "disznó",
+    "pronunciation": "DIS-noh",
+    "example": "A disznó az ólban van."
+  },
+  {
+    "id": "52",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "animals",
+    "sourceText": "rabbit",
+    "targetText": "nyúl",
+    "pronunciation": "nyool",
+    "example": "A nyúl gyorsan fut."
+  },
+  {
+    "id": "53",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "animals",
+    "sourceText": "bear",
+    "targetText": "medve",
+    "pronunciation": "MED-veh",
+    "example": "A medve nagy és erős."
+  },
+  {
+    "id": "54",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "animals",
+    "sourceText": "wolf",
+    "targetText": "farkas",
+    "pronunciation": "FAHR-kahsh",
+    "example": "A farkas az erdőben él."
+  },
+  {
+    "id": "55",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "animals",
+    "sourceText": "fox",
+    "targetText": "róka",
+    "pronunciation": "ROH-kah",
+    "example": "A róka ravasz."
+  },
+
+  {
+    "id": "56",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "family",
+    "sourceText": "mother",
+    "targetText": "anya",
+    "pronunciation": "AH-nyah",
+    "example": "Az anyám kedves."
+  },
+  {
+    "id": "57",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "family",
+    "sourceText": "father",
+    "targetText": "apa",
+    "pronunciation": "AH-pah",
+    "example": "Az apám dolgozik."
+  },
+  {
+    "id": "58",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "family",
+    "sourceText": "sister",
+    "targetText": "nővér",
+    "pronunciation": "NÖ-vayr",
+    "example": "A nővérem idősebb nálam."
+  },
+  {
+    "id": "59",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "family",
+    "sourceText": "brother",
+    "targetText": "fiútestvér",
+    "pronunciation": "FEE-oo-tesh-tvayr",
+    "example": "A fiútestvérem fiatalabb."
+  },
+  {
+    "id": "60",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "family",
+    "sourceText": "grandmother",
+    "targetText": "nagymama",
+    "pronunciation": "NAHDJ-mah-mah",
+    "example": "A nagymamám főz a legjobban."
+  },
+  {
+    "id": "61",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "family",
+    "sourceText": "grandfather",
+    "targetText": "nagyapa",
+    "pronunciation": "NAHDJ-ah-pah",
+    "example": "A nagyapám mesél."
+  },
+  {
+    "id": "62",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "family",
+    "sourceText": "son",
+    "targetText": "fiú",
+    "pronunciation": "FEE-oo",
+    "example": "A fiam iskolába megy."
+  },
+  {
+    "id": "63",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "family",
+    "sourceText": "daughter",
+    "targetText": "lány",
+    "pronunciation": "lahn",
+    "example": "A lányom szép."
+  },
+  {
+    "id": "64",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "family",
+    "sourceText": "family",
+    "targetText": "család",
+    "pronunciation": "CHA-lad",
+    "example": "A család fontos."
+  },
+
+  {
+    "id": "65",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "time",
+    "sourceText": "today",
+    "targetText": "ma",
+    "pronunciation": "mah",
+    "example": "Ma szép idő van."
+  },
+  {
+    "id": "66",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "time",
+    "sourceText": "tomorrow",
+    "targetText": "holnap",
+    "pronunciation": "HOL-nop",
+    "example": "Holnap találkozunk."
+  },
+  {
+    "id": "67",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "time",
+    "sourceText": "yesterday",
+    "targetText": "tegnap",
+    "pronunciation": "TEG-nop",
+    "example": "Tegnap esett az eső."
+  },
+  {
+    "id": "68",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "time",
+    "sourceText": "week",
+    "targetText": "hét",
+    "pronunciation": "hayt",
+    "example": "Egy hét hét nap."
+  },
+  {
+    "id": "69",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "time",
+    "sourceText": "month",
+    "targetText": "hónap",
+    "pronunciation": "HOH-nop",
+    "example": "Melyik hónapban születtél?"
+  },
+  {
+    "id": "70",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "time",
+    "sourceText": "year",
+    "targetText": "év",
+    "pronunciation": "ayv",
+    "example": "Boldog új évet!"
+  },
+  {
+    "id": "71",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "time",
+    "sourceText": "hour",
+    "targetText": "óra",
+    "pronunciation": "OH-rah",
+    "example": "Mennyi az idő? Három óra."
+  },
+  {
+    "id": "72",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "time",
+    "sourceText": "minute",
+    "targetText": "perc",
+    "pronunciation": "perts",
+    "example": "Várj egy percet."
+  },
+
+  {
+    "id": "73",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "weather",
+    "sourceText": "sun",
+    "targetText": "nap",
+    "pronunciation": "nop",
+    "example": "A nap süt."
+  },
+  {
+    "id": "74",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "weather",
+    "sourceText": "rain",
+    "targetText": "eső",
+    "pronunciation": "EH-shő",
+    "example": "Ma esik az eső."
+  },
+  {
+    "id": "75",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "weather",
+    "sourceText": "snow",
+    "targetText": "hó",
+    "pronunciation": "hoh",
+    "example": "Télen havazik."
+  },
+  {
+    "id": "76",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "weather",
+    "sourceText": "wind",
+    "targetText": "szél",
+    "pronunciation": "sayl",
+    "example": "Fúj a szél."
+  },
+  {
+    "id": "77",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "weather",
+    "sourceText": "cloud",
+    "targetText": "felhő",
+    "pronunciation": "FEH-lhő",
+    "example": "Az égen felhők vannak."
+  },
+  {
+    "id": "78",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "weather",
+    "sourceText": "hot",
+    "targetText": "forró",
+    "pronunciation": "FOR-roh",
+    "example": "Nyáron forró van."
+  },
+  {
+    "id": "79",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "weather",
+    "sourceText": "cold",
+    "targetText": "hideg",
+    "pronunciation": "HEE-deg",
+    "example": "Télen hideg van."
+  },
+  {
+    "id": "80",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "weather",
+    "sourceText": "warm",
+    "targetText": "meleg",
+    "pronunciation": "MEH-leg",
+    "example": "Ma meleg van."
+  },
+
+  {
+    "id": "81",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "body",
+    "sourceText": "head",
+    "targetText": "fej",
+    "pronunciation": "fay",
+    "example": "A fejemen kalap van."
+  },
+  {
+    "id": "82",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "body",
+    "sourceText": "eye",
+    "targetText": "szem",
+    "pronunciation": "sem",
+    "example": "Két szemem van."
+  },
+  {
+    "id": "83",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "body",
+    "sourceText": "ear",
+    "targetText": "fül",
+    "pronunciation": "fül",
+    "example": "A fülemmel hallom."
+  },
+  {
+    "id": "84",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "body",
+    "sourceText": "nose",
+    "targetText": "orr",
+    "pronunciation": "or",
+    "example": "Az orrommal szagolok."
+  },
+  {
+    "id": "85",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "body",
+    "sourceText": "mouth",
+    "targetText": "száj",
+    "pronunciation": "sahy",
+    "example": "A számmal beszélek."
+  },
+  {
+    "id": "86",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "body",
+    "sourceText": "hand",
+    "targetText": "kéz",
+    "pronunciation": "kayz",
+    "example": "Két kezem van."
+  },
+  {
+    "id": "87",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "body",
+    "sourceText": "foot",
+    "targetText": "láb",
+    "pronunciation": "lahb",
+    "example": "A lábammal járok."
+  },
+  {
+    "id": "88",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "body",
+    "sourceText": "heart",
+    "targetText": "szív",
+    "pronunciation": "seev",
+    "example": "A szívem dobog."
+  },
+
+  {
+    "id": "89",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "phrases",
+    "sourceText": "I don't understand",
+    "targetText": "nem értem",
+    "pronunciation": "nem AYR-tem",
+    "example": "Elnézést, nem értem."
+  },
+  {
+    "id": "90",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "phrases",
+    "sourceText": "I understand",
+    "targetText": "értem",
+    "pronunciation": "AYR-tem",
+    "example": "Igen, értem."
+  },
+  {
+    "id": "91",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "phrases",
+    "sourceText": "I don't know",
+    "targetText": "nem tudom",
+    "pronunciation": "nem TOO-dom",
+    "example": "Sajnos nem tudom."
+  },
+  {
+    "id": "92",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "phrases",
+    "sourceText": "How much",
+    "targetText": "mennyibe kerül",
+    "pronunciation": "MEH-nyee-beh KEH-rül",
+    "example": "Mennyibe kerül ez?"
+  },
+  {
+    "id": "93",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "phrases",
+    "sourceText": "Where is",
+    "targetText": "hol van",
+    "pronunciation": "hol vahn",
+    "example": "Hol van a pályaudvar?"
+  },
+  {
+    "id": "94",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "phrases",
+    "sourceText": "cheers",
+    "targetText": "egészségedre",
+    "pronunciation": "EH-gesh-shay-ged-reh",
+    "example": "Egészségedre!"
+  },
+  {
+    "id": "95",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "phrases",
+    "sourceText": "good luck",
+    "targetText": "sok sikert",
+    "pronunciation": "shok SHE-kert",
+    "example": "Sok sikert kívánok!"
+  },
+  {
+    "id": "96",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "phrases",
+    "sourceText": "bon appétit",
+    "targetText": "jó étvágyat",
+    "pronunciation": "yoh AYT-vah-djot",
+    "example": "Jó étvágyat kívánok!"
+  },
+
+  {
+    "id": "97",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "places",
+    "sourceText": "restaurant",
+    "targetText": "étterem",
+    "pronunciation": "AYT-teh-rem",
+    "example": "Menjünk étterembe."
+  },
+  {
+    "id": "98",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "places",
+    "sourceText": "hotel",
+    "targetText": "szálloda",
+    "pronunciation": "SAH-loh-dah",
+    "example": "Hol van a szálloda?"
+  },
+  {
+    "id": "99",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "places",
+    "sourceText": "station",
+    "targetText": "pályaudvar",
+    "pronunciation": "PAH-yuh-ood-var",
+    "example": "A pályaudvar a közelben van."
+  },
+  {
+    "id": "100",
+    "sourceLanguage": "en",
+    "targetLanguage": "hu",
+    "topic": "places",
+    "sourceText": "shop",
+    "targetText": "bolt",
+    "pronunciation": "bolt",
+    "example": "A bolt nyitva van."
   }
 ]
