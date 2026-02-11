@@ -32,14 +32,15 @@ public class WordService {
 
     public List<Language> getAvailableLanguages() {
         return Arrays.asList(
+                new Language("en", "Hungarian"),
                 new Language("en", "English"),
-                new Language("es", "Spanish"),
-                new Language("fr", "French"),
-                new Language("de", "German"),
-                new Language("it", "Italian"),
-                new Language("pt", "Portuguese"),
-                new Language("ja", "Japanese"),
-                new Language("zh", "Chinese")
+                // new Language("es", "Spanish"),
+                // new Language("fr", "French"),
+                // new Language("de", "German"),
+                // new Language("it", "Italian"),
+                // new Language("pt", "Portuguese"),
+                // new Language("ja", "Japanese"),
+                // new Language("zh", "Chinese")
         );
     }
 
