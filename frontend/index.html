@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Learner</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌍 Language Learner</h1>
+            <p class="subtitle">Master new vocabulary with flashcards</p>
+        </header>
+
+        <!-- Setup Panel -->
+        <div id="setup-panel" class="panel">
+            <h2>Configure Your Session</h2>
+            
+            <div class="selectors">
+                <div class="selector-group">
+                    <label for="source-lang">I know:</label>
+                    <select id="source-lang"></select>
+                </div>
+                
+                <div class="arrow">→</div>
+                
+                <div class="selector-group">
+                    <label for="target-lang">I want to learn:</label>
+                    <select id="target-lang"></select>
+                </div>
+                
+                <div class="selector-group">
+                    <label for="topic">Topic:</label>
+                    <select id="topic"></select>
+                </div>
+                
+                <div class="selector-group">
+                    <label for="card-count">Cards:</label>
+                    <select id="card-count">
+                        <option value="5">5</option>
+                        <option value="10" selected>10</option>
+                        <option value="15">15</option>
+                        <option value="20">20</option>
+                    </select>
+                </div>
+            </div>
+            
+            <button id="start-btn" class="btn btn-primary">
+                Start Learning 🚀
+            </button>
+        </div>
+
+        <!-- Game Panel -->
+        <div id="game-panel" class="panel hidden">
+            <div class="game-header">
+                <div class="progress-info">
+                    <span id="current-card">1</span> / <span id="total-cards">10</span>
+                </div>
+                <div class="score-info">
+                    <span class="correct-count">✓ <span id="correct-count">0</span></span>
+                    <span class="incorrect-count">✗ <span id="incorrect-count">0</span></span>
+                </div>
+            </div>
+
+            <div class="progress-bar">
+                <div id="progress-fill" class="progress-fill"></div>
+            </div>
+
+            <!-- Card Container -->
+            <div class="card-container">
+                <div id="card" class="card">
+                    <div class="card-face card-front">
+                        <div class="card-content">
+                            <span class="word-label">Translate this word:</span>
+                            <h2 id="source-word">Loading...</h2>
+                            <span id="example-sentence" class="example"></span>
+                        </div>
+                    </div>
+                    <div class="card-face card-back">
+                        <div class="card-content">
+                            <span id="result-icon" class="result-icon"></span>
+                            <h3 id="target-word"></h3>
+                            <p id="pronunciation" class="pronunciation"></p>
+                            <p id="result-message" class="result-message"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input Area -->
+            <div id="input-area" class="input-area">
+                <input type="text" id="answer-input" 
+                       placeholder="Type your answer..." 
+                       autocomplete="off">
+                <button id="submit-btn" class="btn btn-primary">Check</button>
+            </div>
+
+            <!-- Next Button (hidden initially) -->
+            <div id="next-area" class="next-area hidden">
+                <button id="next-btn" class="btn btn-secondary">Next Card →</button>
+            </div>
+        </div>
+
+        <!-- Results Panel -->
+        <div id="results-panel" class="panel hidden">
+            <h2>🎉 Session Complete!</h2>
+            
+            <div class="results-summary">
+                <div class="score-circle">
+                    <svg viewBox="0 0 100 100">
+                        <circle class="bg" cx="50" cy="50" r="45"></circle>
+                        <circle id="score-circle" class="progress" cx="50" cy="50" r="45"></circle>
+                    </svg>
+                    <div class="score-text">
+                        <span id="final-score">0</span>
+                        <span class="score-total">/ <span id="final-total">10</span></span>
+                    </div>
+                </div>
+                
+                <p id="score-percentage" class="score-percentage"></p>
+                <p id="score-message" class="score-message"></p>
+            </div>
+
+            <div id="review-section" class="review-section">
+                <h3>Review Your Answers</h3>
+                <div id="review-list" class="review-list"></div>
+            </div>
+
+            <div class="results-actions">
+                <button id="retry-btn" class="btn btn-secondary">Try Again</button>
+                <button id="new-session-btn" class="btn btn-primary">New Session</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

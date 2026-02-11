@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "food",
+    "sourceText": "apple",
+    "targetText": "manzana",
+    "pronunciation": "mahn-SAH-nah",
+    "example": "I eat an apple every day."
+  },
+  {
+    "id": "2",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "food",
+    "sourceText": "bread",
+    "targetText": "pan",
+    "pronunciation": "pahn",
+    "example": "I need to buy bread."
+  },
+  {
+    "id": "3",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "food",
+    "sourceText": "water",
+    "targetText": "agua",
+    "pronunciation": "AH-gwah",
+    "example": "Water is essential for life."
+  },
+  {
+    "id": "4",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "food",
+    "sourceText": "coffee",
+    "targetText": "café",
+    "pronunciation": "kah-FEH",
+    "example": "I drink coffee in the morning."
+  },
+  {
+    "id": "5",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "food",
+    "sourceText": "milk",
+    "targetText": "leche",
+    "pronunciation": "LEH-cheh",
+    "example": "The milk is cold."
+  },
+  {
+    "id": "6",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "animals",
+    "sourceText": "dog",
+    "targetText": "perro",
+    "pronunciation": "PEH-rroh",
+    "example": "My dog is very friendly."
+  },
+  {
+    "id": "7",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "animals",
+    "sourceText": "cat",
+    "targetText": "gato",
+    "pronunciation": "GAH-toh",
+    "example": "The cat sleeps all day."
+  },
+  {
+    "id": "8",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "animals",
+    "sourceText": "bird",
+    "targetText": "pájaro",
+    "pronunciation": "PAH-hah-roh",
+    "example": "The bird sings beautifully."
+  },
+  {
+    "id": "9",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "animals",
+    "sourceText": "fish",
+    "targetText": "pez",
+    "pronunciation": "pehs",
+    "example": "The fish swims in the water."
+  },
+  {
+    "id": "10",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "animals",
+    "sourceText": "horse",
+    "targetText": "caballo",
+    "pronunciation": "kah-BAH-yoh",
+    "example": "The horse runs fast."
+  },
+  {
+    "id": "11",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "colors",
+    "sourceText": "red",
+    "targetText": "rojo",
+    "pronunciation": "ROH-hoh",
+    "example": "The apple is red."
+  },
+  {
+    "id": "12",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "colors",
+    "sourceText": "blue",
+    "targetText": "azul",
+    "pronunciation": "ah-SOOL",
+    "example": "The sky is blue."
+  },
+  {
+    "id": "13",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "colors",
+    "sourceText": "green",
+    "targetText": "verde",
+    "pronunciation": "BEHR-deh",
+    "example": "The grass is green."
+  },
+  {
+    "id": "14",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "colors",
+    "sourceText": "yellow",
+    "targetText": "amarillo",
+    "pronunciation": "ah-mah-REE-yoh",
+    "example": "The banana is yellow."
+  },
+  {
+    "id": "15",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "colors",
+    "sourceText": "black",
+    "targetText": "negro",
+    "pronunciation": "NEH-groh",
+    "example": "My car is black."
+  },
+  {
+    "id": "16",
+    "sourceLanguage": "en",
+    "targetLanguage": "fr",
+    "topic": "food",
+    "sourceText": "apple",
+    "targetText": "pomme",
+    "pronunciation": "pom",
+    "example": "I eat an apple."
+  },
+  {
+    "id": "17",
+    "sourceLanguage": "en",
+    "targetLanguage": "fr",
+    "topic": "food",
+    "sourceText": "bread",
+    "targetText": "pain",
+    "pronunciation": "pahn",
+    "example": "Fresh bread is delicious."
+  },
+  {
+    "id": "18",
+    "sourceLanguage": "en",
+    "targetLanguage": "fr",
+    "topic": "food",
+    "sourceText": "water",
+    "targetText": "eau",
+    "pronunciation": "oh",
+    "example": "I drink water."
+  },
+  {
+    "id": "19",
+    "sourceLanguage": "en",
+    "targetLanguage": "fr",
+    "topic": "animals",
+    "sourceText": "dog",
+    "targetText": "chien",
+    "pronunciation": "shee-ahn",
+    "example": "The dog is barking."
+  },
+  {
+    "id": "20",
+    "sourceLanguage": "en",
+    "targetLanguage": "fr",
+    "topic": "animals",
+    "sourceText": "cat",
+    "targetText": "chat",
+    "pronunciation": "shah",
+    "example": "The cat is sleeping."
+  },
+  {
+    "id": "21",
+    "sourceLanguage": "en",
+    "targetLanguage": "de",
+    "topic": "food",
+    "sourceText": "apple",
+    "targetText": "apfel",
+    "pronunciation": "AHP-fel",
+    "example": "The apple is tasty."
+  },
+  {
+    "id": "22",
+    "sourceLanguage": "en",
+    "targetLanguage": "de",
+    "topic": "food",
+    "sourceText": "bread",
+    "targetText": "brot",
+    "pronunciation": "broht",
+    "example": "German bread is famous."
+  },
+  {
+    "id": "23",
+    "sourceLanguage": "en",
+    "targetLanguage": "de",
+    "topic": "animals",
+    "sourceText": "dog",
+    "targetText": "hund",
+    "pronunciation": "hoont",
+    "example": "The dog is loyal."
+  },
+  {
+    "id": "24",
+    "sourceLanguage": "en",
+    "targetLanguage": "de",
+    "topic": "animals",
+    "sourceText": "cat",
+    "targetText": "katze",
+    "pronunciation": "KAHT-seh",
+    "example": "The cat is independent."
+  },
+  {
+    "id": "25",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "greetings",
+    "sourceText": "hello",
+    "targetText": "hola",
+    "pronunciation": "OH-lah",
+    "example": "Hello, how are you?"
+  },
+  {
+    "id": "26",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "greetings",
+    "sourceText": "goodbye",
+    "targetText": "adiós",
+    "pronunciation": "ah-dee-OHS",
+    "example": "Goodbye, see you later."
+  },
+  {
+    "id": "27",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "greetings",
+    "sourceText": "thank you",
+    "targetText": "gracias",
+    "pronunciation": "GRAH-see-ahs",
+    "example": "Thank you for your help."
+  },
+  {
+    "id": "28",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "greetings",
+    "sourceText": "please",
+    "targetText": "por favor",
+    "pronunciation": "pohr fah-VOHR",
+    "example": "Please pass the salt."
+  },
+  {
+    "id": "29",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "numbers",
+    "sourceText": "one",
+    "targetText": "uno",
+    "pronunciation": "OO-noh",
+    "example": "I have one book."
+  },
+  {
+    "id": "30",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "topic": "numbers",
+    "sourceText": "two",
+    "targetText": "dos",
+    "pronunciation": "dohs",
+    "example": "I have two cats."
+  }
+]

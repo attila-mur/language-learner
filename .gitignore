@@ -1,0 +1,15 @@
+# Ignore Maven build folder
+backend/target/
+
+# Ignore Maven wrapper (if you don't want to commit it, though usually you do)
+# .mvn/
+
+# Ignore IDE files
+.idea/
+*.iml
+.vscode/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
