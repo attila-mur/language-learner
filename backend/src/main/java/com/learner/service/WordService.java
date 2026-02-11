@@ -33,7 +33,7 @@ public class WordService {
     public List<Language> getAvailableLanguages() {
         return Arrays.asList(
                 new Language("hu", "Hungarian"),
-                new Language("en", "English"),
+                new Language("en", "English")
                 // new Language("es", "Spanish"),
                 // new Language("fr", "French"),
                 // new Language("de", "German"),
