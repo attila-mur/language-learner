@@ -1,6 +1,6 @@
 // Configuration
 // const API_BASE = 'http://localhost:8080/api';
-const API_BASE = 'https://https://language-learner-d2c8.onrender.com/'
+const API_BASE = 'https://language-learner-d2c8.onrender.com/'
 
 // State
 let currentCards = [];
